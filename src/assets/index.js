@@ -1,4 +1,5 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
+import personalLogo from './personalogo.svg'
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -68,5 +69,6 @@ export {
   hypernova,
   soluprime,
   gutaku,
-  todolist
+  todolist,
+  personalLogo
 };
